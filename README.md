@@ -10,7 +10,7 @@ NSS     - 24
 Ground  - 25  
 RESET   - 29
 
-You can change the interrupt pin (GPIO24) in the class init.  
+You can change the interrupt pin (GPIO13) in the class init.  
 
 prerequisites: RPi.GPIO and spidev
 
